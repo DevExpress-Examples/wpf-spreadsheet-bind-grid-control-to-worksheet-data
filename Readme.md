@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to bind a grid control to the worksheet data (WPF Spreadsheet)
+# Spreadsheet for WPF - Bind a GridControl to the Worksheet Data
 
 This example demonstrates how to bind the [Grid Control](https://docs.devexpress.com/WPF/6084/controls-and-libraries/data-grid) to the [Spreadsheet](https://docs.devexpress.com/WPF/16118/controls-and-libraries/spreadsheet) data.
 
