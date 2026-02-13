@@ -20,7 +20,7 @@ Use the [Range.GetDataSource](https://docs.devexpress.com/OfficeFileAPI/DevExpre
 
 * [Data Binding in Spreadsheet for WPF](https://docs.devexpress.com/WPF/117685/controls-and-libraries/spreadsheet/data-binding)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-spreadsheet-bind-grid-control-to-worksheet-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-spreadsheet-bind-grid-control-to-worksheet-data&~~~was_helpful=no)
 
